@@ -10,7 +10,7 @@ Satellite cross-references that against Red Hat's published CVE data to
 identify which hosts are affected by which CVEs. Neither host leaves the
 lab network.
 
-For details on the seeded vulnerabilities, https://github.com/rhpds/zt-satellite-lightspeed-ansible/blob/8975dbe9d64379f217d4555188740e3d79037f56/setup-automation/setup-satellite.sh#L77[see this section of the lab setup script].
+For details on the seeded vulnerabilities, https://github.com/rhpds/zt-satellite-lightspeed-ansible/blob/8975dbe9d64379f217d4555188740e3d79037f56/setup-automation/setup-satellite.sh#L77[see this section of the lab setup script^].
 
 ======
 First, open the Vulnerability dashboard.
