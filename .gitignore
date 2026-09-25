@@ -1,2 +1,7 @@
 www/
 .cache/
+.DS_Store
+.obsidian/
+.gitignore
+.vscode/
+.gitignore
